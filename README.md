@@ -6,7 +6,7 @@ Data Science & Analytics, National University of Singapore
 
 ### Featured work
 
-**[KnowBuddy](https://github.com/gabriel-wan/tencent-hackathon-fintech)** · Tencent Cloud AI Hackathon 2026 · [live demo](https://knowbuddy.xyz)\
+**[KnowBuddy](https://github.com/gabriel-wan/tencent-hackathon-fintech)** · Tencent Cloud AI Hackathon 2026\
 A permission-aware RAG assistant over Slack, Drive, Jira and Confluence. Hybrid BM25 + pgvector retrieval with access control inside the query, live permission checks that fail closed, cited answers, and a hash-chained audit log. I built the frontend and an **LLM audit assistant**: the model plans the query, code runs it and does the counting, and the model only summarises verified records.\
 `Python` `FastAPI` `PostgreSQL + pgvector` `Next.js` `Docker`
 
@@ -18,7 +18,7 @@ A two-sided tourism platform with a TF-IDF recommender written in SQL, and a Gem
 
 ### Also built
 
-- **[Personal Management System](https://github.com/liewzewei/personal_management_system)**: tasks, calendar sync, journaling and exercise analytics in one app ([live](https://personal-management-system-six.vercel.app)). `Next.js` `Supabase`
+- **[Personal Management System](https://github.com/liewzewei/personal_management_system)**: tasks, calendar sync, journaling and exercise analytics in one app. `Next.js` `Supabase`
 - **[Winchester](https://github.com/liewzewei/Winchester)**: a literary text adventure set in 1837–38, with visible dice checks and prose that shifts from Austen to Brontë to Dostoyevsky. Vanilla JS, no build step.
 
 ### Toolbox
